@@ -38,7 +38,7 @@ Use setInterval to call the nextImage() function at regular intervals.
 
 Clean up the interval when the component unmounts using clearInterval to prevent memory leaks.
 
-## PROGRAM
+## PROGRAM :
 
 
 # JS :
@@ -100,7 +100,7 @@ export default function App() {
 }
 ```
 
-### APP.CSS:
+### CSS :
 
 ```
 body {
@@ -205,7 +205,8 @@ footer p {
 
 ## OUTPUT :
 
-![IMAGE CAROUSEL](https://github.com/user-attachments/assets/0488210c-34c0-41bf-a2da-3e8687604811)
+<img width="1878" height="866" alt="mwad ex5 image" src="https://github.com/user-attachments/assets/62232ea4-27fe-4590-bf0f-c7113443a945" />
+
 
 ## RESULT :
 The program for creating Image Carousel using React is executed successfully.
